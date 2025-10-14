@@ -6,7 +6,7 @@ subtitle: PhD Student in Computer Science at UCAS
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: yanyinglin.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Currently visiting at UPenn</p>
