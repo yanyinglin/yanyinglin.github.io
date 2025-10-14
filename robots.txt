@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yanying.github.io/sitemap.xml
+Sitemap: https://yanyinglin.github.io/sitemap.xml
