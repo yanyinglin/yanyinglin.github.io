@@ -43,7 +43,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{
+            },},{id: "news-our-paper-flexpipe-has-been-accepted-to-eurosys-26",
+          title: 'Our paper “FlexPipe” has been accepted to EuroSys’26!',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
