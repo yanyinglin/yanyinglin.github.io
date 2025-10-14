@@ -2,17 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Computer Science
+subtitle: PhD Student in Computer Science at UCAS
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Currently visiting at UPenn DSL</p>
+    <p>Currently visiting at UPenn</p>
     <p>University of Chinese Academy of Sciences</p>
-    <p>Email: yy.lin1@siat.ac.cn</p>
-    <p>Homepage: <a href="http://cc.siat.ac.cn/yanying/">cc.siat.ac.cn/yanying/</a></p>
+    <p>Email: linyanying19@mails.ucas.ac.cn</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,23 +27,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in Computer Science at the University of Chinese Academy of Sciences, currently visiting at the University of Pennsylvania DSL. My research focuses on **Operating/Network Systems**, **System for AI**, and **Distributed Systems**.
+I am a PhD student in Computer Science at the University of Chinese Academy of Sciences with [Prof. Kejiang Ye](https://people.ucas.edu.cn/~kejiang?language=en), currently visiting at the University of Pennsylvania DSL. My research focuses on **Operating/Network Systems**, **System for AI**, and **Distributed Systems**.
 
-## Research Interests
+<!-- ## Research Interests
 
 My work spans several key areas in systems research:
 
 - **Large Language Model Systems**: Optimizing inference performance, pipeline parallelism, and serverless serving for LLMs
 - **Network Systems**: Designing efficient network architectures for AI workloads and edge computing
 - **Distributed Systems**: Building fault-tolerant, scalable systems for cloud and edge environments
-- **Serverless Computing**: Performance optimization and resource orchestration for serverless platforms
+- **Serverless Computing**: Performance optimization and resource orchestration for serverless platforms -->
 
-## Current Work
+## Research & Collaborations
 
-I am currently working on advancing large-scale deep learning model inference through elastic heterogeneous pipelines, with a focus on performance-guaranteed LLM serving systems with fault-tolerated pipelines. My recent work includes developing network systems for resource-constrained edge environments and FPGA-based acceleration techniques for AI workloads.
+I am currently working on **Serverless LLM Systems**, **Generative Model Inference Systems**, and **Hardware Acceleration for Edge-Cloud Systems**, with particular interests in **Sparse Model Optimization** and **Reinforcement Learning for LLMs**. My research focuses on advancing large-scale deep learning model inference through elastic heterogeneous pipelines, with an emphasis on performance-guaranteed serving systems.
 
-## Publications
-
-I have published extensively in top-tier conferences and journals, including EuroSys, SoCC, ICDCS, IEEE TSC, and IEEE TCC. My work has been recognized with multiple publications in leading venues, covering topics from serverless computing to large language model serving systems.
-
-For a complete list of my publications, please visit my [publications page](/publications/).
+I have had the privilege of collaborating with leading scholars in the field: [Prof. Rong Chen](https://ipads.se.sjtu.edu.cn/pub/members/rong_chen) (SJTU), [Prof. Xinyu Zhang](https://xyzhang.ucsd.edu/) (UCSD), [Prof. Vincent Liu](https://vincen.tl/) (UPenn).
