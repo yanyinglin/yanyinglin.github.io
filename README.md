@@ -49,7 +49,7 @@ To run this website locally:
 
 ## Deployment
 
-This website is deployed on GitHub Pages at https://yanying.github.io
+This website is deployed on GitHub Pages at https://yanyinglin.github.io
 
 The site automatically rebuilds when changes are pushed to the main branch.
 

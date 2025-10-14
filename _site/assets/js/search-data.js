@@ -43,7 +43,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{
+            },},{id: "news-our-paper-flexpipe-has-been-accepted-to-eurosys-26",
+          title: 'Our paper “FlexPipe” has been accepted to EuroSys’26!',
+          description: "",
+          section: "News",},{id: "news-we-released-gentd26-a-production-level-top-down-dataset-for-serverless-diffusion-model-serving-learn-more",
+          title: 'We released GenTD26, a production-level top-down dataset for serverless diffusion model serving! Learn...',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',

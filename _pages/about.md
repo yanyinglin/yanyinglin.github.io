@@ -39,7 +39,10 @@ My work spans several key areas in systems research:
 - **Serverless Computing**: Performance optimization and resource orchestration for serverless platforms -->
 
 ## Research & Collaborations
-
-I am currently working on **Serverless LLM Systems**, **Generative Model Inference Systems**, and **Hardware Acceleration for Edge-Cloud Systems**, with particular interests in **Sparse Model Optimization** and **Reinforcement Learning for LLMs**. My research focuses on advancing large-scale deep learning model inference through elastic heterogeneous pipelines, with an emphasis on performance-guaranteed serving systems.
+I am currently working on Serverless LLM Systems, Generative Model Inference Systems, and Hardware Acceleration for Edge-Cloud Systems, with particular interests in Sparse Model Optimization and Reinforcement Learning for LLMs. My research focuses on advancing large-scale deep learning model inference through elastic heterogeneous pipelines, with an emphasis on performance-guaranteed serving systems.
 
 I have had the privilege of collaborating with leading scholars in the field: [Prof. Rong Chen](https://ipads.se.sjtu.edu.cn/pub/members/rong_chen) (SJTU), [Prof. Xinyu Zhang](https://xyzhang.ucsd.edu/) (UCSD), [Prof. Vincent Liu](https://vincen.tl/) (UPenn).
+
+I spent over a year as a visiting scholar at UCSD, exploring FPGA-GPU parallel acceleration for LLM inference. I maintain close collaborations with Alibaba's infrastructure team and AIOS team, staying at the forefront of industry AI systems and ecosystems.
+
+
