@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Currently visiting at UPenn</p>
-    <p>University of Chinese Academy of Sciences</p>
-    <p>Email: linyanying19@mails.ucas.ac.cn</p>
+    <p>UCAS</p>
+    <p>Email: yy.lin1@siat.ac.cn</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in Computer Science at the University of Chinese Academy of Sciences with [Prof. Kejiang Ye](https://people.ucas.edu.cn/~kejiang?language=en), currently visiting at the University of Pennsylvania DSL. My research focuses on **Operating/Network Systems**, **System for AI**, and **Distributed Systems**.
+I am a PhD student in Computer Science at the University of Chinese Academy of Sciences (UCAS) with [Prof. Kejiang Ye](https://people.ucas.edu.cn/~kejiang?language=en), currently visiting at the University of Pennsylvania DSL. My research focuses on **Operating/Network Systems**, **System for AI**, and **Distributed Systems**.
 
 <!-- ## Research Interests
 
@@ -44,5 +44,3 @@ I am currently working on Serverless LLM Systems, Generative Model Inference Sys
 I have had the privilege of collaborating with leading scholars in the field: [Prof. Rong Chen](https://ipads.se.sjtu.edu.cn/pub/members/rong_chen) (SJTU), [Prof. Xinyu Zhang](https://xyzhang.ucsd.edu/) (UCSD), [Prof. Vincent Liu](https://vincen.tl/) (UPenn).
 
 I spent over a year as a visiting scholar at UCSD, exploring FPGA-GPU parallel acceleration for LLM inference. I maintain close collaborations with Alibaba's infrastructure team and AIOS team, staying at the forefront of industry AI systems and ecosystems.
-
-
