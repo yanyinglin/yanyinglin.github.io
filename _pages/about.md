@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Currently visiting at UPenn</p>
     <p>UCAS</p>
-    <p>Email: yy.lin1@siat.ac.cn</p>
+    <p>Email: yy.lin1[at]siat.ac.cn</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
