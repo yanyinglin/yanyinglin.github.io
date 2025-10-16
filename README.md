@@ -18,12 +18,6 @@ This website is built using the [al-folio](https://github.com/alshedivat/al-foli
 - **Understanding Diffusion Model Serving in Production**: A Top-Down Analysis of Workload, Scheduling, and Resource Efficiency (SoCC 2025)
 - **Quart**: Latency-Aware FaaS System for Pipelining Large Model Inference (ICDCS 2024)
 
-## Contact
-
-- **Email**: yy.lin1@siat.ac.cn
-- **Homepage**: http://cc.siat.ac.cn/yanying/
-- **Current Affiliation**: University of Pennsylvania DSL (Visiting)
-
 ## Website Features
 
 - **Publications**: Automatically generated from BibTeX bibliography

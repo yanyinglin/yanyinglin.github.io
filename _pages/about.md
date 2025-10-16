@@ -9,8 +9,8 @@ profile:
   image: yanyinglin.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Currently visiting at UPenn</p>
-    <p>UCAS</p>
+    <p>PhD Student of UCAS</p>
+    <p>Visiting at UPenn DSL</p>
     <p>Email: yy.lin1[at]siat.ac.cn</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"

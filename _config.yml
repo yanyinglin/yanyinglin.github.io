@@ -7,16 +7,14 @@ first_name: Yanying
 middle_name: 
 last_name: Lin (林彦颖)
 contact_note: >
-  Currently visiting at UPenn DSL, University of Chinese Academy of Sciences
+  <b>PhD Student of University of Chinese Academy of Sciences (UCAS), Visiting at University of Pennsylvania DSL</b>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD Student in Computer Science. Research interests: Operating/Network System, System for AI, Distributed System.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
+keywords: Yanying Lin, PhD Student, UCAS, DSL, UPenn, System for AI, Operating/Network System, Distributed System
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🏔️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://yanyinglin.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -47,7 +45,7 @@ repo_trophies:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
